@@ -121,7 +121,7 @@ const Utils = {
 
         // Giao diện Telegram đẹp mắt, phân khu rõ ràng, hỗ trợ click-to-copy qua thẻ <code>
         const text = `
-<b>🌐 THÔNG TIN KẾT NỐI</b>
+<b>🌐 HÀNG VỀ AE</b>
 • <b>IP:</b> <code>${ipDisplay}</code> ${flag}
 • <b>Vị trí:</b> <code>${locationData.location}</code>
 ━━━━━━━━━━━━━━━━━━━━
